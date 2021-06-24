@@ -1,0 +1,13 @@
+C:\Users\Diltz\source\repos\102 Essentials\bin\Release\102 Essentials.exe.config
+C:\Users\Diltz\source\repos\102 Essentials\bin\Release\102 Essentials.exe
+C:\Users\Diltz\source\repos\102 Essentials\bin\Release\102 Essentials.pdb
+C:\Users\Diltz\source\repos\102 Essentials\bin\Release\Newtonsoft.Json.dll
+C:\Users\Diltz\source\repos\102 Essentials\obj\Release\102 Essentials.csproj.AssemblyReference.cache
+C:\Users\Diltz\source\repos\102 Essentials\obj\Release\_102_Essentials.Main.resources
+C:\Users\Diltz\source\repos\102 Essentials\obj\Release\_102_Essentials.Login.resources
+C:\Users\Diltz\source\repos\102 Essentials\obj\Release\_102_Essentials.Properties.Resources.resources
+C:\Users\Diltz\source\repos\102 Essentials\obj\Release\102 Essentials.csproj.GenerateResource.cache
+C:\Users\Diltz\source\repos\102 Essentials\obj\Release\102 Essentials.csproj.CoreCompileInputs.cache
+C:\Users\Diltz\source\repos\102 Essentials\obj\Release\102 Essentials.csproj.CopyComplete
+C:\Users\Diltz\source\repos\102 Essentials\obj\Release\102 Essentials.exe
+C:\Users\Diltz\source\repos\102 Essentials\obj\Release\102 Essentials.pdb

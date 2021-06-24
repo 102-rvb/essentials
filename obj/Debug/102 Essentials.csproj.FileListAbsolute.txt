@@ -1,0 +1,13 @@
+C:\Users\Diltz\source\repos\102 Essentials\obj\Debug\102 Essentials.csproj.AssemblyReference.cache
+C:\Users\Diltz\source\repos\102 Essentials\obj\Debug\_102_Essentials.Properties.Resources.resources
+C:\Users\Diltz\source\repos\102 Essentials\obj\Debug\102 Essentials.csproj.GenerateResource.cache
+C:\Users\Diltz\source\repos\102 Essentials\obj\Debug\102 Essentials.csproj.CoreCompileInputs.cache
+C:\Users\Diltz\source\repos\102 Essentials\bin\Debug\102 Essentials.exe.config
+C:\Users\Diltz\source\repos\102 Essentials\bin\Debug\102 Essentials.exe
+C:\Users\Diltz\source\repos\102 Essentials\bin\Debug\102 Essentials.pdb
+C:\Users\Diltz\source\repos\102 Essentials\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diltz\source\repos\102 Essentials\obj\Debug\102 Essentials.csproj.CopyComplete
+C:\Users\Diltz\source\repos\102 Essentials\obj\Debug\102 Essentials.exe
+C:\Users\Diltz\source\repos\102 Essentials\obj\Debug\102 Essentials.pdb
+C:\Users\Diltz\source\repos\102 Essentials\obj\Debug\_102_Essentials.Login.resources
+C:\Users\Diltz\source\repos\102 Essentials\obj\Debug\_102_Essentials.Main.resources
